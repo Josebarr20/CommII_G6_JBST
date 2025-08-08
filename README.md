@@ -1,2 +1,2 @@
-# COMU2_A1_G6
+# CommunicationsII_2025_2_G6
 
