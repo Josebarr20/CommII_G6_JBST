@@ -1,3 +1,3 @@
 # Repositorio Laboratorio Comunicaciones II
-## CommII_G6_JBST
-Somos un grupo de estudiantes de la Universidad Industrial de Santander, los cuales a través de este repositorio compartimos y recopilamos nuestras proyectos realizados en la parte práctica de la asignatura Comunicaciones II.
+## Práctica 2: PSD de señales aleatorias (GNURadio)
+La Densidad Espectral de Potencia (PSD) es una herramienta fundamental en el campo de la ingeniería, especialmente en aplicaciones relacionadas con la adquisición y el análisis de datos. La PSD proporciona una descripción detallada de la distribución de energía en una señal en función de la frecuencia, lo que permite comprender la estructura espectral de la señal y revelar patrones ocultos en los datos temporales. En esta práctica, el estudiante explorará los fundamentos del cálculo de la PSD, y los diferentes bloques que ofrece y que no ofrece GNURadio, dando la oportunidad de utilizar funciones que debe implementar el estudiante.
