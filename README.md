@@ -1,3 +1,3 @@
 # Repositorio Laboratorio Comunicaciones II
-## CommII_G6_JBST
-Somos un grupo de estudiantes de la Universidad Industrial de Santander, los cuales a través de este repositorio compartimos y recopilamos nuestros proyectos realizados en la parte práctica de la asignatura Comunicaciones II.
+## Práctica 3: De Radiofrecuencia a la Envolvente Compleja (GNURADIO)
+En  muchas  aplicaciones  de  comunicaciones,  como  la  modulación  y  demodulación  de  señales,  el análisis  y  procesamiento  de  señales  en  su  forma  de  envolvente  compleja  es  más  eficiente  y conveniente  que  trabajar  con  la  señal  de  RF  directamente.  Esto  se  debe  a  que  la  envolvente compleja proporciona una representación más simple de la señal, lo que facilita cálculos matemáticos  y  algoritmos.  Al  trabajar  con  la envolvente  compleja,  es más  fácil  detectar  eventos importantes en una señal, como picos de amplitud, cambios abruptos y patrones de modulación. Esto es valioso en aplicaciones como radar, comunicaciones inalámbricas y mediciones de señales. 
